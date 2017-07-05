@@ -1,4 +1,4 @@
-###This program takes the output from Generate_Features_TwoSigma.R and runs the data in a gradient boosting model
+###This program takes the output data from Generate_Features_TwoSigma.R and uses the data as input in a gradient boosting model
 
 
 rm(list=ls())

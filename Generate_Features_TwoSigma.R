@@ -1,4 +1,4 @@
-#This program generates features for use in the GB_TwoSigma.R program
+#This program generates features for use as input in the GB_TwoSigma.R program
 
 ###Ver3 - only use relativeprice2
 ##############PART 0 ##############
