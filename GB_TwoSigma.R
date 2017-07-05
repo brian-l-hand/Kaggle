@@ -1,3 +1,6 @@
+###This program takes the output from Generate_Features_TwoSigma.R and runs the data in a gradient boosting model
+
+
 rm(list=ls())
 #setwd("\\users\\brian\\OneDrive\\Documents\\Kaggle\\TwoSigma")
 setwd("\\users\\brian\\OneDrive\\Documents\\Grad_School\\Spring_2017\\297\\Extra_Assignment")

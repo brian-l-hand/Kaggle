@@ -1,3 +1,5 @@
+#This program generates features for use in the GB_TwoSigma.R program
+
 ###Ver3 - only use relativeprice2
 ##############PART 0 ##############
 require(rjson)
