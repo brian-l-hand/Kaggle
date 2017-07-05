@@ -1,3 +1,4 @@
+###Used to generate a submission for Two Sigma Connect: Rental Listing Inquiries on Kaggle.com
 ###This program takes the output data from Generate_Features_TwoSigma.R and uses the data as input in a gradient boosting model
 
 

@@ -1,6 +1,7 @@
-#This program generates features for use as input in the GB_TwoSigma.R program
+###Used to generate a submission for Two Sigma Connect: Rental Listing Inquiries on Kaggle.com
+###This program generates features for use as input in the GB_TwoSigma.R program
 
-###Ver3 - only use relativeprice2
+
 ##############PART 0 ##############
 require(rjson)
 require(reshape2)
